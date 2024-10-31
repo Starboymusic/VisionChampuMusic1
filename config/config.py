@@ -69,7 +69,7 @@ UPSTREAM_REPO = getenv(
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", 
-    "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",
+    "",
 )  # Fill this variable if your upstream repository is private
 
 # Only  Links formats are  accepted for this Var value.
